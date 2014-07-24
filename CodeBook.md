@@ -29,7 +29,7 @@ The following variables are created in the script:
 Transformations
 ---------------
 
-The following transformations are done after the raw data are read from the files:
+The following transformations are done after the data are read from the files:
 
   1. Add subjects, activities, and column labels (features names + subject + activity) into the training data set
   1. Add subjects, activities, and column labels (features names + subject + activity) into the test data set

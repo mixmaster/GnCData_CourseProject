@@ -17,7 +17,7 @@ Requirements to Run the Script
 To run the script, you would need to:
 
   * Set this directory as the working directory
-  * Unzip the "UCI HAR Data.zip" into the working directory and keep the original directory structure unchanged
+  * Download the [UCI HAR Data.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it into the working directory with the original directory structure unchanged
 
 
 Output
